@@ -163,7 +163,7 @@ a.hvr-shutter-out-horizontal:hover:before,a.hvr-shutter-out-horizontal:focus:bef
 }
 .banner-left p {
   color: #fff;
-  font-size: 1.4em;
+  font-size: 1.6em;
   font-weight: 100;
 }
 .banner-right{
@@ -881,7 +881,7 @@ color: #999;
 	font-size: 16em;
 }
 .error-page h3 span {
-	color: #FF6131;
+	color: #EC0909;
 }
 .error-page p{
 	font-weight:100;
