@@ -31,7 +31,7 @@ ul{
 .banner{
 	background:url(../images/banner.jpg) no-repeat;
 	background-size:cover;
-	min-height: 780px;
+	min-height: 100px;
 }
 /*----*/
 .logo{
@@ -2513,4 +2513,5 @@ div#portfoliolist {
 		width: 100%;
 	}
 }
+
 /*--/responsive--*/
